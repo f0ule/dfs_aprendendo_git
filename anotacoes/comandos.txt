@@ -1,0 +1,19 @@
+git init - inicializando um repositório git 
+
+git status - verificar o status do repositório
+
+git add - adiciona um arquivo 
+
+git add . - adiciona todos os arquivos ao mesmo tempo torna todos os arquivos rastreáveis ao mesmo tempo (rastrear um arquivo serve para acompanhar as modificações realizadas nos arquivos)
+
+(powershell - winget upgrade all) - testar em casa
+
+
+git é um gerenciador de arquivos 
+ja o github é um serviço para gerenciar repositórios 
+
+
+
+
+
+
