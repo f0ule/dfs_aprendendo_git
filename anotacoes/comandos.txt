@@ -6,7 +6,17 @@ git add - adiciona um arquivo
 
 git add . - adiciona todos os arquivos ao mesmo tempo torna todos os arquivos rastreáveis ao mesmo tempo (rastrear um arquivo serve para acompanhar as modificações realizadas nos arquivos)
 
-(powershell - winget upgrade all) - testar em casa
+git commit -m - faz um comentario e publica
+
+git branch -m main - cria uma filial 
+
+git remote add origin - adiciona uma origem para o arquivo do git.
+
+git push -u origin main - finalizar a adição do arquivo linha principal do tempo
+
+(powershell - winget upgrade --zall) - testar em casa
+
+cls - limpa o terminal 
 
 
 git é um gerenciador de arquivos 
